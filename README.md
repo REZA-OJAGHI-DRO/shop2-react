@@ -3,7 +3,7 @@
 
 ![Screenshot (48)](https://github.com/REZA-OJAGHI-DRO/shop2-react/assets/145910720/c6584d6a-e5cb-4d8e-8b0e-69b87d6e99f7)
 
-- [Demo Project(vpn)](https://shop2-react.vercel.app/)
+- [Demo Project(VPN)](https://shop2-react.vercel.app/)
  
 - Developed by reza ojaghi
 
